@@ -6,6 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 
 [Live Report Link](https://app.powerbi.com/groups/me/reports/74b88489-2a27-4468-bc59-073a9f0540dd/ecef4d7e0110e512e020?action=OpenReport&pbi_source=ChatInTeams&bookmarkGuid=f4c5056e-a280-4a09-a2c7-abb286039f2b)
+[My Portfolio](https://codebasics.io/portfolio/Pratyush-Das))
 
 
 ## Tech stacks
